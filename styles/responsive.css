@@ -1,0 +1,17 @@
+@media only screen and (max-width: 576px) {
+  .nav-cls {
+    flex-direction: column;
+  }
+  .nav-start {
+    margin-left: 68px;
+  }
+  .nav-end {
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 100px;
+    padding: 20px;
+  }
+  .login-btn {
+    margin-top: 10px;
+  }
+}
